@@ -1,5 +1,5 @@
 const BODY_CHANGED_CLASSNAME = "body_changed";
-const HEADING_CHANGED = "Hooray! Not bored anymore! 🔥";
+const HEADING_CHANGED = "Not bored anymore! 🔥";
 
 const activityNode = document.querySelector(".js-activity");
 const goBtnNode = document.querySelector(".js-btn");
