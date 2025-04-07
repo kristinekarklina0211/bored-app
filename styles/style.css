@@ -32,6 +32,7 @@ body {
 
 .activity {
     margin-bottom: 94px;
+    text-align: center;
 }
 
 .btn {
@@ -84,7 +85,7 @@ body {
     }
     
     .container {
-        padding-top: 50px;
+        padding: 80px 30px;
     }
     
     .title {
